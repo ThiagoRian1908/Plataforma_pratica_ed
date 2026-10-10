@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_brilho",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_brilho",
+  "parent":{
+    "name":"Efeito_brilho",
+    "path":"folders/Efeitos/Efeito_brilho.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

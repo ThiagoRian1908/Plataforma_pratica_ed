@@ -1,0 +1,25 @@
+{
+  "$GMParticleSystem":"",
+  "%Name":"ps_porta_abrindo",
+  "backdropHeight":32,
+  "backdropImageOpacity":0.5,
+  "backdropImagePath":"C:\\Users\\thiag\\Downloads\\Materiais e créditos\\Materiais e créditos\\Assets\\Cenário\\Itens\\Porta.png",
+  "backdropWidth":21,
+  "backdropXOffset":0.0,
+  "backdropYOffset":0.0,
+  "drawOrder":0,
+  "emitters":[
+    {"$GMPSEmitter":"","%Name":"Emitter","additiveBlend":false,"directionIncrease":0.0,"directionMax":80.0,"directionMin":306.0,"directionWiggle":0.0,"distribution":0,"editorColour":1090519039,"editorDrawShape":true,"emitCount":1,"emitDelayMax":0.0,"emitDelayMin":0.0,"emitDelayUnits":0,"emitIntervalMax":4.0,"emitIntervalMin":2.0,"emitIntervalUnits":1,"enabled":true,"endColour":738197503,"GMPresetName":null,"gravityDirection":270.0,"gravityForce":0.0,"headPosition":0.0,"lifetimeMax":40.0,"lifetimeMin":20.0,"linkedEmitter":null,"locked":false,"midColour":4289901234,"mode":0,"name":"Emitter","orientationIncrease":0.0,"orientationMax":0.0,"orientationMin":0.0,"orientationRelative":false,"orientationWiggle":0.0,"regionH":1.3205719,"regionW":20.220093,"regionX":0.0,"regionY":-15.0,"resourceType":"GMPSEmitter","resourceVersion":"2.0","scaleX":0.1,"scaleY":0.1,"shape":0,"sizeIncrease":0.05,"sizeMax":1.0,"sizeMin":1.0,"sizeWiggle":0.0,"spawnOnDeathCount":1,"spawnOnDeathGMPreset":null,"spawnOnDeathId":null,"spawnOnUpdateCount":1,"spawnOnUpdateGMPreset":null,"spawnOnUpdateId":null,"speedIncrease":0.01,"speedMax":0.1,"speedMin":0.1,"speedWiggle":0.0,"spriteAnimate":false,"spriteId":null,"spriteRandom":false,"spriteStretch":true,"startColour":4284900966,"texture":11,},
+  ],
+  "name":"ps_porta_abrindo",
+  "parent":{
+    "name":"Particle Systems",
+    "path":"folders/Particle Systems.yy",
+  },
+  "resourceType":"GMParticleSystem",
+  "resourceVersion":"2.0",
+  "showBackdrop":true,
+  "showBackdropImage":true,
+  "xorigin":0,
+  "yorigin":0,
+}

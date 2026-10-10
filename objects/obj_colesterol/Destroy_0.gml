@@ -1,0 +1,1 @@
+global.sumi = 0;

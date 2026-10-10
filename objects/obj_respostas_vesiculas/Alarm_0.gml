@@ -1,0 +1,1 @@
+global.vesicula = 0;

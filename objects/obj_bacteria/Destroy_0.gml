@@ -1,0 +1,1 @@
+global.passou = 0;

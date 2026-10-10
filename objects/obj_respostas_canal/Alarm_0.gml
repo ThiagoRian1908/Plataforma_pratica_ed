@@ -1,0 +1,1 @@
+global.canal = 0;
